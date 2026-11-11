@@ -1,0 +1,2918 @@
+[
+  {
+    "section": "PORT KLANG",
+    "area": "BT TIGA, MONFORT/ROLLEN GROWELL",
+    "haulage": 612.95,
+    "toll": 19.8,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 808.56
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "BUKIT CHERAKAH - MERU",
+    "haulage": 695.75,
+    "toll": 23.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 911.08
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "MERU, BUKIT RAJA",
+    "haulage": 612.95,
+    "toll": 13.6,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 802.36
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "NORTH KLANG STRAITS (NKS) UP TO BP",
+    "haulage": 612.95,
+    "toll": 0.0,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 788.76
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "PORT KLANG OTHER THAN NKS",
+    "haulage": 612.95,
+    "toll": 0.0,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 788.76
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "JLN TELOK GONG / PANDAMARAN",
+    "haulage": 612.95,
+    "toll": 0.0,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 788.76
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "RANTAU PANJANG",
+    "haulage": 612.95,
+    "toll": 8.0,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 796.76
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "SHAH ALAM",
+    "haulage": 612.95,
+    "toll": 19.8,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 808.56
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "SUNGAI RASAU",
+    "haulage": 612.95,
+    "toll": 13.6,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 802.36
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "SUNGAI SEDU",
+    "haulage": 695.75,
+    "toll": 18.8,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 906.68
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "TELOK PANGLIMA GARANG",
+    "haulage": 612.95,
+    "toll": 18.8,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 807.56
+  },
+  {
+    "section": "PORT KLANG",
+    "area": "WEST PORT TO NKS AREA",
+    "haulage": 612.95,
+    "toll": 0.0,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 788.76
+  },
+  {
+    "section": "PETALING JAYA",
+    "area": "KELANA JAYA",
+    "haulage": 695.75,
+    "toll": 23.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 911.08
+  },
+  {
+    "section": "PETALING JAYA",
+    "area": "PETALING JAYA",
+    "haulage": 695.75,
+    "toll": 23.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 911.08
+  },
+  {
+    "section": "PETALING JAYA",
+    "area": "SUBANG AIRPORT",
+    "haulage": 695.75,
+    "toll": 23.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 911.08
+  },
+  {
+    "section": "PETALING JAYA",
+    "area": "GLENMARIE /BUKIT JELUTONG",
+    "haulage": 695.75,
+    "toll": 19.8,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 907.68
+  },
+  {
+    "section": "PETALING JAYA",
+    "area": "SUBANG JAYA",
+    "haulage": 695.75,
+    "toll": 23.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 911.08
+  },
+  {
+    "section": "PETALING JAYA",
+    "area": "SUBANG NEW VILLAGE / PUNCAK ALAM",
+    "haulage": 695.75,
+    "toll": 23.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 911.08
+  },
+  {
+    "section": "PETALING JAYA",
+    "area": "SUNGAI WAY",
+    "haulage": 695.75,
+    "toll": 23.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 911.08
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "AMPANG AFTER RISDA /AMPANG HILIR",
+    "haulage": 878.6,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "AMPANG AFTER YOW CHUAN PLAZA B4 RISDA",
+    "haulage": 828.0,
+    "toll": 35.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1081.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "AMPANG UNTIL YOW CHUAN PLAZA",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "ALAM DAMAI, CHERAS",
+    "haulage": 910.8,
+    "toll": 44.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1189.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "BALAKONG",
+    "haulage": 910.8,
+    "toll": 37.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1182.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "BATU CAVES 8TH MILE AND ABOVE",
+    "haulage": 910.8,
+    "toll": 35.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1180.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "BATU CAVES UNTIL 8TH MILE",
+    "haulage": 878.6,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "CHOW KIT / JLN MASJID INDIA",
+    "haulage": 828.0,
+    "toll": 44.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1090.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "DAMANSARA HEIGHTS, SUNWAY DAMANSARA",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "DAMANSARA UTAMA",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "DESA TUN RAZAK",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "FINLAND RATTAN (BEFORE ULU LANGAT)",
+    "haulage": 1209.8,
+    "toll": 39.4,
+    "faf": 238.45,
+    "dgc": 55.0,
+    "total": 1542.65
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "HOCK LEE RUBBER SUNGAI PLONG",
+    "haulage": 828.0,
+    "toll": 32.6,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1078.8
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN BANGSAR, Bkt Bandaraya, Jln Medung",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN BUKIT BINTANG /JLN RAJA LAUT",
+    "haulage": 828.0,
+    "toll": 44.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1090.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN CHERAS 1ST AND 2ND MILE",
+    "haulage": 811.9,
+    "toll": 44.0,
+    "faf": 160.03,
+    "dgc": 55.0,
+    "total": 1070.93
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN CHERAS ABV. 2ND BELOW 5TH MILE",
+    "haulage": 828.0,
+    "toll": 44.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1090.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN CHERAS ABV.11TH MILE",
+    "haulage": 910.8,
+    "toll": 44.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1189.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN CHERAS ABV.5TH BELOW 8TH MILE",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN CHERAS ABV.8TH BELOW 11TH MILE",
+    "haulage": 910.8,
+    "toll": 44.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1189.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN DATUK SULAIMAN",
+    "haulage": 778.55,
+    "toll": 44.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1031.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN GENTING KLANG",
+    "haulage": 861.35,
+    "toll": 35.0,
+    "faf": 169.77,
+    "dgc": 55.0,
+    "total": 1121.12
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN GOMBAK 1ST AND 2ND MILE",
+    "haulage": 811.9,
+    "toll": 44.0,
+    "faf": 160.03,
+    "dgc": 55.0,
+    "total": 1070.93
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN GOMBAK ABV. 2ND BELOW 5TH MILE",
+    "haulage": 828.0,
+    "toll": 44.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1090.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN GOMBAK ABV.5TH BELOW 8TH MILE Pandan",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN GOMBAK ABV.8TH MILE",
+    "haulage": 910.8,
+    "toll": 44.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1189.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN IPOH 1ST AND 2ND MILE",
+    "haulage": 811.9,
+    "toll": 35.0,
+    "faf": 160.03,
+    "dgc": 55.0,
+    "total": 1061.93
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN IPOH ABV.2ND BELOW 5TH MILE",
+    "haulage": 828.0,
+    "toll": 35.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1081.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN IPOH ABV.5TH BELOW 8TH MILE",
+    "haulage": 878.6,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN IPOH ABV.8TH MILE",
+    "haulage": 910.8,
+    "toll": 35.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1180.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN KLANG LAMA 5TH MILE",
+    "haulage": 695.75,
+    "toll": 35.2,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 923.08
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN LOKE YEW",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN PUDU",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JALAN TUN RAZAK",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1041.72
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JINJANG SELATAN",
+    "haulage": 878.6,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JINJANG UTARA",
+    "haulage": 878.6,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "JLN KUCHAI LAMA/JLN KLG LAMA/ MONT KIARA",
+    "haulage": 778.55,
+    "toll": 35.2,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "KAMPUNG DATUK KERAMAT",
+    "haulage": 828.0,
+    "toll": 35.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1081.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "KEPONG/KEPONG BARU/ SRI DAMANSARA",
+    "haulage": 878.6,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "KL CITY CENTRE / JLN CHAN SOW LIN",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "OUTSIDE CITY CENTRE 1 - 2 MILES",
+    "haulage": 811.9,
+    "toll": 35.2,
+    "faf": 160.03,
+    "dgc": 55.0,
+    "total": 1062.13
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "OVERSEAS UNION GARDEN",
+    "haulage": 778.55,
+    "toll": 35.2,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "PETALING / BUKIT JALIL",
+    "haulage": 828.0,
+    "toll": 35.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1081.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "PUCHONG",
+    "haulage": 778.55,
+    "toll": 44.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1031.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SALAK SOUTH",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SEGAMBUT TENGAH",
+    "haulage": 828.0,
+    "toll": 35.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1081.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SELAYANG BARU",
+    "haulage": 910.8,
+    "toll": 35.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1180.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SERDANG BARU (UPM)",
+    "haulage": 910.8,
+    "toll": 58.4,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1203.72
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SERDANG LAMA",
+    "haulage": 828.0,
+    "toll": 58.4,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1104.6
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SETAPAK (PEKELILING R/BOUT-JLN SEAVOY)",
+    "haulage": 861.35,
+    "toll": 35.0,
+    "faf": 169.77,
+    "dgc": 55.0,
+    "total": 1121.12
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SETAPAK INDUSTRIAL ESTATE",
+    "haulage": 861.35,
+    "toll": 35.0,
+    "faf": 169.77,
+    "dgc": 55.0,
+    "total": 1121.12
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SRI KEMBANGAN SERDANG",
+    "haulage": 910.8,
+    "toll": 44.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1189.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SUNGAI BESI",
+    "haulage": 778.55,
+    "toll": 44.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1031.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SUNGAI BULOH (NEW VILLAGE) / IND. AREA",
+    "haulage": 811.9,
+    "toll": 32.6,
+    "faf": 160.03,
+    "dgc": 55.0,
+    "total": 1059.53
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "SUNGAI BULOH KUALA SELANGOR",
+    "haulage": 828.0,
+    "toll": 8.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1054.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN ANGGERIK, CHERAS",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN CITY, KEPONG",
+    "haulage": 828.0,
+    "toll": 35.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1081.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN DAGANG JAYA, AMPANG",
+    "haulage": 828.0,
+    "toll": 35.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1081.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN DAHLIA, CHERAS",
+    "haulage": 828.0,
+    "toll": 44.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1090.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN DESA JAYA, CHERAS",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN DESA JAYA, KEPONG",
+    "haulage": 878.6,
+    "toll": 35.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN GEMBIRA",
+    "haulage": 778.55,
+    "toll": 44.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1031.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN GREENWOOD",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN KENCHANA, CHERAS",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN KOK DOH",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN MALURI,CHERAS/TMN SHAMELIN",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN MAWAR, CHERAS",
+    "haulage": 778.55,
+    "toll": 44.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1031.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN MEGAH, CHERAS",
+    "haulage": 778.55,
+    "toll": 44.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1031.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN MIDAH, CHERAS / TMN MELAWATI",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN SEGAR, CHERAS",
+    "haulage": 778.55,
+    "toll": 44.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1031.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN SUPREME, CHERAS",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN TAYNTON VIEW",
+    "haulage": 910.8,
+    "toll": 44.0,
+    "faf": 179.52,
+    "dgc": 55.0,
+    "total": 1189.32
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN TUN DR ISMAIL",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN TUN RAZAK, CHERAS, TASIK SELATAN",
+    "haulage": 878.6,
+    "toll": 44.0,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1150.77
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN MAJU JAYA",
+    "haulage": 1244.76,
+    "toll": 35.0,
+    "faf": 245.34,
+    "dgc": 55.0,
+    "total": 1580.1
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN DUTA",
+    "haulage": 828.0,
+    "toll": 44.0,
+    "faf": 163.2,
+    "dgc": 55.0,
+    "total": 1090.2
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "TAMAN UTANT, AMPANG",
+    "haulage": 778.55,
+    "toll": 35.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1022.0
+  },
+  {
+    "section": "KUALA LUMPUR",
+    "area": "WANGSA MAJU",
+    "haulage": 861.35,
+    "toll": 35.0,
+    "faf": 169.77,
+    "dgc": 55.0,
+    "total": 1121.12
+  },
+  {
+    "section": "SELANGOR",
+    "area": "BANTING",
+    "haulage": 778.55,
+    "toll": 18.8,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1005.8
+  },
+  {
+    "section": "SELANGOR",
+    "area": "BATANG BERJUNTAI",
+    "haulage": 1251.2,
+    "toll": 34.6,
+    "faf": 246.61,
+    "dgc": 55.0,
+    "total": 1587.41
+  },
+  {
+    "section": "SELANGOR",
+    "area": "BATANG KALI",
+    "haulage": 1515.7,
+    "toll": 41.6,
+    "faf": 298.74,
+    "dgc": 55.0,
+    "total": 1911.04
+  },
+  {
+    "section": "SELANGOR",
+    "area": "BATU ARANG",
+    "haulage": 1482.35,
+    "toll": 41.6,
+    "faf": 292.17,
+    "dgc": 55.0,
+    "total": 1871.12
+  },
+  {
+    "section": "SELANGOR",
+    "area": "BERANANG",
+    "haulage": 1324.8,
+    "toll": 66.2,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1707.12
+  },
+  {
+    "section": "SELANGOR",
+    "area": "BANGI / BGi INDUSTRIAL AREA",
+    "haulage": 1267.3,
+    "toll": 56.0,
+    "faf": 249.78,
+    "dgc": 55.0,
+    "total": 1628.08
+  },
+  {
+    "section": "SELANGOR",
+    "area": "BUKIT BERUNTUNG",
+    "haulage": 1515.7,
+    "toll": 49.4,
+    "faf": 298.74,
+    "dgc": 55.0,
+    "total": 1918.84
+  },
+  {
+    "section": "SELANGOR",
+    "area": "CYBERJAYA /PUTRAJAYA",
+    "haulage": 1324.8,
+    "toll": 45.4,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1686.32
+  },
+  {
+    "section": "SELANGOR",
+    "area": "DENGKIL/TAMAN MAS SEPANG (PUCHONG)",
+    "haulage": 1324.8,
+    "toll": 45.4,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1686.32
+  },
+  {
+    "section": "SELANGOR",
+    "area": "GENTING SANYEN",
+    "haulage": 1324.8,
+    "toll": 45.4,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1686.32
+  },
+  {
+    "section": "SELANGOR",
+    "area": "IJIOK",
+    "haulage": 1099.4,
+    "toll": 34.6,
+    "faf": 216.69,
+    "dgc": 55.0,
+    "total": 1405.69
+  },
+  {
+    "section": "SELANGOR",
+    "area": "JALAN KAPAR ABOVE 10TH MILE",
+    "haulage": 695.75,
+    "toll": 8.0,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 895.88
+  },
+  {
+    "section": "SELANGOR",
+    "area": "JALAN KAPAR UNTIL 10TH MILE",
+    "haulage": 612.95,
+    "toll": 8.0,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 796.76
+  },
+  {
+    "section": "SELANGOR",
+    "area": "JENJAROM/KUALA LANGAT",
+    "haulage": 695.75,
+    "toll": 18.8,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 906.68
+  },
+  {
+    "section": "SELANGOR",
+    "area": "JERAM (KLANG OUTER) / JALAN KAPAR > BT 12",
+    "haulage": 778.55,
+    "toll": 8.0,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 995.0
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KAJANG / SUNGAI LONG",
+    "haulage": 1245.45,
+    "toll": 61.6,
+    "faf": 245.48,
+    "dgc": 55.0,
+    "total": 1607.53
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KELUMPANG",
+    "haulage": 1722.7,
+    "toll": 64.8,
+    "faf": 339.54,
+    "dgc": 55.0,
+    "total": 2182.04
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KERLING",
+    "haulage": 1598.5,
+    "toll": 41.6,
+    "faf": 315.06,
+    "dgc": 55.0,
+    "total": 2010.16
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KJG PERANG BESAR ESTATE",
+    "haulage": 1764.1,
+    "toll": 61.6,
+    "faf": 347.7,
+    "dgc": 55.0,
+    "total": 2228.4
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KUALA KUBU BARU",
+    "haulage": 1598.5,
+    "toll": 41.6,
+    "faf": 315.06,
+    "dgc": 55.0,
+    "total": 2010.16
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KUALA SELANGOR",
+    "haulage": 1127.0,
+    "toll": 8.0,
+    "faf": 222.13,
+    "dgc": 55.0,
+    "total": 1412.13
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KUANG",
+    "haulage": 1324.8,
+    "toll": 34.6,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1675.52
+  },
+  {
+    "section": "SELANGOR",
+    "area": "KUNDANG",
+    "haulage": 1324.8,
+    "toll": 41.6,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1682.52
+  },
+  {
+    "section": "SELANGOR",
+    "area": "LEMBAH BERINGIN",
+    "haulage": 1598.5,
+    "toll": 59.2,
+    "faf": 315.06,
+    "dgc": 55.0,
+    "total": 2027.76
+  },
+  {
+    "section": "SELANGOR",
+    "area": "MORIB / TANJUNG SEPAT",
+    "haulage": 1168.4,
+    "toll": 18.8,
+    "faf": 230.29,
+    "dgc": 55.0,
+    "total": 1472.49
+  },
+  {
+    "section": "SELANGOR",
+    "area": "OLAK LEMPIT",
+    "haulage": 778.55,
+    "toll": 18.8,
+    "faf": 153.45,
+    "dgc": 55.0,
+    "total": 1005.8
+  },
+  {
+    "section": "SELANGOR",
+    "area": "PAYA JARAS",
+    "haulage": 928.05,
+    "toll": 32.6,
+    "faf": 182.92,
+    "dgc": 55.0,
+    "total": 1198.57
+  },
+  {
+    "section": "SELANGOR",
+    "area": "PULAU CAREY",
+    "haulage": 695.75,
+    "toll": 18.8,
+    "faf": 137.13,
+    "dgc": 55.0,
+    "total": 906.68
+  },
+  {
+    "section": "SELANGOR",
+    "area": "RASA ULU SELANGOR",
+    "haulage": 1435.2,
+    "toll": 41.6,
+    "faf": 282.88,
+    "dgc": 55.0,
+    "total": 1814.68
+  },
+  {
+    "section": "SELANGOR",
+    "area": "RAWANG",
+    "haulage": 1324.8,
+    "toll": 41.6,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1682.52
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SABAK BERNAM",
+    "haulage": 1772.15,
+    "toll": 8.0,
+    "faf": 349.29,
+    "dgc": 55.0,
+    "total": 2184.44
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SALAK TINGGI",
+    "haulage": 1324.8,
+    "toll": 45.4,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1686.32
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SEKINCHAN",
+    "haulage": 1482.35,
+    "toll": 8.0,
+    "faf": 292.17,
+    "dgc": 55.0,
+    "total": 1837.52
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SEMENYIH",
+    "haulage": 1324.8,
+    "toll": 59.4,
+    "faf": 261.12,
+    "dgc": 55.0,
+    "total": 1700.32
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SEPANG",
+    "haulage": 1549.05,
+    "toll": 45.4,
+    "faf": 305.32,
+    "dgc": 55.0,
+    "total": 1954.77
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SERENDAH",
+    "haulage": 1405.3,
+    "toll": 41.6,
+    "faf": 276.98,
+    "dgc": 55.0,
+    "total": 1778.88
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SIJANGKANG",
+    "haulage": 612.95,
+    "toll": 0.0,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 788.76
+  },
+  {
+    "section": "SELANGOR",
+    "area": "SUNGAI BESAR",
+    "haulage": 1722.7,
+    "toll": 8.0,
+    "faf": 339.54,
+    "dgc": 55.0,
+    "total": 2125.24
+  },
+  {
+    "section": "SELANGOR",
+    "area": "TAMAN ASA JAYA / SG. CHUA",
+    "haulage": 1245.45,
+    "toll": 59.4,
+    "faf": 245.48,
+    "dgc": 55.0,
+    "total": 1605.33
+  },
+  {
+    "section": "SELANGOR",
+    "area": "TANJUNG KARANG",
+    "haulage": 1391.5,
+    "toll": 8.0,
+    "faf": 274.26,
+    "dgc": 55.0,
+    "total": 1728.76
+  },
+  {
+    "section": "SELANGOR",
+    "area": "TANJUNG SEPAT",
+    "haulage": 1168.4,
+    "toll": 18.8,
+    "faf": 230.29,
+    "dgc": 55.0,
+    "total": 1472.49
+  },
+  {
+    "section": "SELANGOR",
+    "area": "TELOK PANGLIMA GARANG",
+    "haulage": 612.95,
+    "toll": 18.8,
+    "faf": 120.81,
+    "dgc": 55.0,
+    "total": 807.56
+  },
+  {
+    "section": "SELANGOR",
+    "area": "ULU KLANG",
+    "haulage": 878.6,
+    "toll": 34.6,
+    "faf": 173.17,
+    "dgc": 55.0,
+    "total": 1141.37
+  },
+  {
+    "section": "SELANGOR",
+    "area": "ULU LANGAT",
+    "haulage": 1292.6,
+    "toll": 41.6,
+    "faf": 254.77,
+    "dgc": 55.0,
+    "total": 1643.97
+  },
+  {
+    "section": "SELANGOR",
+    "area": "ULU YAM BARU",
+    "haulage": 1515.7,
+    "toll": 41.6,
+    "faf": 298.74,
+    "dgc": 55.0,
+    "total": 1911.04
+  },
+  {
+    "section": "PERAK",
+    "area": "AIR TAWAR",
+    "haulage": 2653.05,
+    "toll": 127.6,
+    "faf": 522.92,
+    "dgc": 55.0,
+    "total": 3358.57
+  },
+  {
+    "section": "PERAK",
+    "area": "BAGAN DATOK / SELEKOH",
+    "haulage": 1957.3,
+    "toll": 66.0,
+    "faf": 385.78,
+    "dgc": 55.0,
+    "total": 2464.08
+  },
+  {
+    "section": "PERAK",
+    "area": "BAGAN SERAI",
+    "haulage": 2860.05,
+    "toll": 168.2,
+    "faf": 563.72,
+    "dgc": 55.0,
+    "total": 3646.97
+  },
+  {
+    "section": "PERAK",
+    "area": "BATU GAJAH / SIMPANG PULAI",
+    "haulage": 2263.2,
+    "toll": 127.6,
+    "faf": 446.08,
+    "dgc": 55.0,
+    "total": 2891.88
+  },
+  {
+    "section": "PERAK",
+    "area": "BATU KURAU",
+    "haulage": 2487.45,
+    "toll": 161.8,
+    "faf": 490.28,
+    "dgc": 55.0,
+    "total": 3194.53
+  },
+  {
+    "section": "PERAK",
+    "area": "BEHRANG",
+    "haulage": 1821.6,
+    "toll": 66.0,
+    "faf": 359.04,
+    "dgc": 55.0,
+    "total": 2301.64
+  },
+  {
+    "section": "PERAK",
+    "area": "BOTA",
+    "haulage": 2355.2,
+    "toll": 127.6,
+    "faf": 464.21,
+    "dgc": 55.0,
+    "total": 3002.01
+  },
+  {
+    "section": "PERAK",
+    "area": "BIDOR",
+    "haulage": 2056.2,
+    "toll": 92.4,
+    "faf": 405.28,
+    "dgc": 55.0,
+    "total": 2608.88
+  },
+  {
+    "section": "PERAK",
+    "area": "BRUAS",
+    "haulage": 2586.35,
+    "toll": 127.6,
+    "faf": 509.77,
+    "dgc": 55.0,
+    "total": 3278.72
+  },
+  {
+    "section": "PERAK",
+    "area": "CAMERON HIGHLAND -55KM FM TAPAH",
+    "haulage": 2280.45,
+    "toll": 99.6,
+    "faf": 449.48,
+    "dgc": 55.0,
+    "total": 2884.53
+  },
+  {
+    "section": "PERAK",
+    "area": "CAMERON HIGHLAND -60KM FM TAPAH",
+    "haulage": 2296.55,
+    "toll": 99.6,
+    "faf": 452.65,
+    "dgc": 55.0,
+    "total": 2903.8
+  },
+  {
+    "section": "PERAK",
+    "area": "CEMOR",
+    "haulage": 2446.05,
+    "toll": 127.6,
+    "faf": 482.12,
+    "dgc": 55.0,
+    "total": 3110.77
+  },
+  {
+    "section": "PERAK",
+    "area": "CHANGKAT JERING",
+    "haulage": 2677.2,
+    "toll": 153.2,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3413.08
+  },
+  {
+    "section": "PERAK",
+    "area": "CHENDEROH",
+    "haulage": 2544.95,
+    "toll": 141.6,
+    "faf": 501.61,
+    "dgc": 55.0,
+    "total": 3243.16
+  },
+  {
+    "section": "PERAK",
+    "area": "FRASERS' HILL",
+    "haulage": 1849.2,
+    "toll": 36.6,
+    "faf": 364.48,
+    "dgc": 55.0,
+    "total": 2305.28
+  },
+  {
+    "section": "PERAK",
+    "area": "GOPENG",
+    "haulage": 2321.85,
+    "toll": 115.8,
+    "faf": 457.64,
+    "dgc": 55.0,
+    "total": 2950.29
+  },
+  {
+    "section": "PERAK",
+    "area": "GRIK",
+    "haulage": 3165.95,
+    "toll": 141.6,
+    "faf": 624.01,
+    "dgc": 55.0,
+    "total": 3986.56
+  },
+  {
+    "section": "PERAK",
+    "area": "HUTAN MELINTANG",
+    "haulage": 1817.0,
+    "toll": 66.0,
+    "faf": 358.13,
+    "dgc": 55.0,
+    "total": 2296.13
+  },
+  {
+    "section": "PERAK",
+    "area": "IPOH, MENGLEMBU TASEK IND. AREA",
+    "haulage": 2355.2,
+    "toll": 127.6,
+    "faf": 464.21,
+    "dgc": 55.0,
+    "total": 3002.01
+  },
+  {
+    "section": "PERAK",
+    "area": "KAMPAR/TEMOH",
+    "haulage": 2221.8,
+    "toll": 99.6,
+    "faf": 437.92,
+    "dgc": 55.0,
+    "total": 2814.32
+  },
+  {
+    "section": "PERAK",
+    "area": "KAMPUNG KEPAYANG",
+    "haulage": 2321.85,
+    "toll": 115.8,
+    "faf": 457.64,
+    "dgc": 55.0,
+    "total": 2950.29
+  },
+  {
+    "section": "PERAK",
+    "area": "KANDAR",
+    "haulage": 1971.1,
+    "toll": 92.4,
+    "faf": 388.5,
+    "dgc": 55.0,
+    "total": 2507.0
+  },
+  {
+    "section": "PERAK",
+    "area": "KEMUNTING",
+    "haulage": 2677.2,
+    "toll": 161.8,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3421.68
+  },
+  {
+    "section": "PERAK",
+    "area": "KROH",
+    "haulage": 3390.2,
+    "toll": 141.6,
+    "faf": 668.21,
+    "dgc": 55.0,
+    "total": 4255.01
+  },
+  {
+    "section": "PERAK",
+    "area": "KUALA DIPANG",
+    "haulage": 2272.4,
+    "toll": 127.6,
+    "faf": 447.89,
+    "dgc": 55.0,
+    "total": 2902.89
+  },
+  {
+    "section": "PERAK",
+    "area": "KUALA KANGSAR",
+    "haulage": 2544.95,
+    "toll": 141.6,
+    "faf": 501.61,
+    "dgc": 55.0,
+    "total": 3243.16
+  },
+  {
+    "section": "PERAK",
+    "area": "KUALA KURAU",
+    "haulage": 2901.45,
+    "toll": 161.8,
+    "faf": 571.88,
+    "dgc": 55.0,
+    "total": 3690.13
+  },
+  {
+    "section": "PERAK",
+    "area": "LAHAT",
+    "haulage": 2355.2,
+    "toll": 127.6,
+    "faf": 464.21,
+    "dgc": 55.0,
+    "total": 3002.01
+  },
+  {
+    "section": "PERAK",
+    "area": "LANGKAP",
+    "haulage": 1984.9,
+    "toll": 92.4,
+    "faf": 391.22,
+    "dgc": 55.0,
+    "total": 2523.52
+  },
+  {
+    "section": "PERAK",
+    "area": "LENGGONG",
+    "haulage": 2714.0,
+    "toll": 141.6,
+    "faf": 534.93,
+    "dgc": 55.0,
+    "total": 3445.53
+  },
+  {
+    "section": "PERAK",
+    "area": "LUMUT",
+    "haulage": 2743.9,
+    "toll": 127.6,
+    "faf": 540.82,
+    "dgc": 55.0,
+    "total": 3467.32
+  },
+  {
+    "section": "PERAK",
+    "area": "MALIM NAWAR",
+    "haulage": 2321.85,
+    "toll": 115.8,
+    "faf": 457.64,
+    "dgc": 55.0,
+    "total": 2950.29
+  },
+  {
+    "section": "PERAK",
+    "area": "PADANG RENGAS",
+    "haulage": 2674.9,
+    "toll": 141.6,
+    "faf": 527.22,
+    "dgc": 55.0,
+    "total": 3398.72
+  },
+  {
+    "section": "PERAK",
+    "area": "PANTAI REMIS",
+    "haulage": 2677.2,
+    "toll": 127.6,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3387.48
+  },
+  {
+    "section": "PERAK",
+    "area": "PARIT",
+    "haulage": 2487.45,
+    "toll": 115.8,
+    "faf": 490.28,
+    "dgc": 55.0,
+    "total": 3148.53
+  },
+  {
+    "section": "PERAK",
+    "area": "PARIT BUNTAR",
+    "haulage": 3041.75,
+    "toll": 177.4,
+    "faf": 599.53,
+    "dgc": 55.0,
+    "total": 3873.68
+  },
+  {
+    "section": "PERAK",
+    "area": "PENGKALAN HULU",
+    "haulage": 2355.2,
+    "toll": 127.6,
+    "faf": 464.21,
+    "dgc": 55.0,
+    "total": 3002.01
+  },
+  {
+    "section": "PERAK",
+    "area": "PORT WELD",
+    "haulage": 2751.95,
+    "toll": 153.2,
+    "faf": 542.41,
+    "dgc": 55.0,
+    "total": 3502.56
+  },
+  {
+    "section": "PERAK",
+    "area": "PUSING",
+    "haulage": 2355.2,
+    "toll": 127.6,
+    "faf": 464.21,
+    "dgc": 55.0,
+    "total": 3002.01
+  },
+  {
+    "section": "PERAK",
+    "area": "SELAMA",
+    "haulage": 2917.55,
+    "toll": 161.8,
+    "faf": 575.05,
+    "dgc": 55.0,
+    "total": 3709.4
+  },
+  {
+    "section": "PERAK",
+    "area": "SERI MANJUNG",
+    "haulage": 2743.9,
+    "toll": 127.6,
+    "faf": 540.82,
+    "dgc": 55.0,
+    "total": 3467.32
+  },
+  {
+    "section": "PERAK",
+    "area": "SETIAWAN",
+    "haulage": 2677.2,
+    "toll": 127.6,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3387.48
+  },
+  {
+    "section": "PERAK",
+    "area": "SLIM RIVER",
+    "haulage": 1858.4,
+    "toll": 74.6,
+    "faf": 366.29,
+    "dgc": 55.0,
+    "total": 2354.29
+  },
+  {
+    "section": "PERAK",
+    "area": "SUNGKAI",
+    "haulage": 2056.2,
+    "toll": 92.4,
+    "faf": 405.28,
+    "dgc": 55.0,
+    "total": 2608.88
+  },
+  {
+    "section": "PERAK",
+    "area": "SUNGAI SIPUT",
+    "haulage": 2619.7,
+    "toll": 141.6,
+    "faf": 516.34,
+    "dgc": 55.0,
+    "total": 3332.64
+  },
+  {
+    "section": "PERAK",
+    "area": "TAIPING",
+    "haulage": 2677.2,
+    "toll": 161.8,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3421.68
+  },
+  {
+    "section": "PERAK",
+    "area": "TANJUNG MALIM",
+    "haulage": 1742.25,
+    "toll": 59.8,
+    "faf": 343.4,
+    "dgc": 55.0,
+    "total": 2200.45
+  },
+  {
+    "section": "PERAK",
+    "area": "TANJUNG RAMBUTAN",
+    "haulage": 2412.7,
+    "toll": 127.6,
+    "faf": 475.54,
+    "dgc": 55.0,
+    "total": 3070.84
+  },
+  {
+    "section": "PERAK",
+    "area": "TANJUNG TUALANG",
+    "haulage": 2586.35,
+    "toll": 127.6,
+    "faf": 509.77,
+    "dgc": 55.0,
+    "total": 3278.72
+  },
+  {
+    "section": "PERAK",
+    "area": "TAPAH (CHENDERING)",
+    "haulage": 2097.6,
+    "toll": 99.6,
+    "faf": 413.44,
+    "dgc": 55.0,
+    "total": 2665.64
+  },
+  {
+    "section": "PERAK",
+    "area": "TELOK INTAN",
+    "haulage": 1858.4,
+    "toll": 92.4,
+    "faf": 366.29,
+    "dgc": 55.0,
+    "total": 2372.09
+  },
+  {
+    "section": "PENANG",
+    "area": "BUKIT MERTAJAM",
+    "haulage": 3191.25,
+    "toll": 194.8,
+    "faf": 629.0,
+    "dgc": 55.0,
+    "total": 4070.05
+  },
+  {
+    "section": "PENANG",
+    "area": "BUTTERWORTH / SEBERANG PRAI",
+    "haulage": 3315.45,
+    "toll": 194.8,
+    "faf": 653.48,
+    "dgc": 55.0,
+    "total": 4218.73
+  },
+  {
+    "section": "PENANG",
+    "area": "KEPALA BATAS",
+    "haulage": 3390.2,
+    "toll": 194.8,
+    "faf": 668.21,
+    "dgc": 55.0,
+    "total": 4308.21
+  },
+  {
+    "section": "PENANG",
+    "area": "NIBONG TEBAL",
+    "haulage": 3055.55,
+    "toll": 194.8,
+    "faf": 602.25,
+    "dgc": 55.0,
+    "total": 3907.6
+  },
+  {
+    "section": "PENANG",
+    "area": "PENANG ISLAND (BRIDGE-RM 75.00)/BAYAN",
+    "haulage": 3950.25,
+    "toll": 269.8,
+    "faf": 778.59,
+    "dgc": 55.0,
+    "total": 5053.64
+  },
+  {
+    "section": "KEDAH",
+    "area": "BALING",
+    "haulage": 3795.0,
+    "toll": 240.0,
+    "faf": 747.99,
+    "dgc": 55.0,
+    "total": 4837.99
+  },
+  {
+    "section": "KEDAH",
+    "area": "BUKIT KAYU HITAM",
+    "haulage": 4772.5,
+    "toll": 267.0,
+    "faf": 940.66,
+    "dgc": 55.0,
+    "total": 6035.16
+  },
+  {
+    "section": "KEDAH",
+    "area": "GURUN",
+    "haulage": 3234.95,
+    "toll": 221.4,
+    "faf": 637.61,
+    "dgc": 55.0,
+    "total": 4148.96
+  },
+  {
+    "section": "KEDAH",
+    "area": "JITRA",
+    "haulage": 4098.6,
+    "toll": 253.0,
+    "faf": 807.83,
+    "dgc": 55.0,
+    "total": 5214.43
+  },
+  {
+    "section": "KEDAH",
+    "area": "KERLING / KUALA KETIL",
+    "haulage": 3588.0,
+    "toll": 221.4,
+    "faf": 707.19,
+    "dgc": 55.0,
+    "total": 4571.59
+  },
+  {
+    "section": "KEDAH",
+    "area": "KUALA KEDAH",
+    "haulage": 3790.4,
+    "toll": 212.4,
+    "faf": 747.09,
+    "dgc": 55.0,
+    "total": 4804.89
+  },
+  {
+    "section": "KEDAH",
+    "area": "KUALA NERANG",
+    "haulage": 3911.15,
+    "toll": 253.0,
+    "faf": 770.89,
+    "dgc": 55.0,
+    "total": 4990.04
+  },
+  {
+    "section": "KEDAH",
+    "area": "KULIM KEDAH",
+    "haulage": 3274.05,
+    "toll": 240.0,
+    "faf": 645.32,
+    "dgc": 55.0,
+    "total": 4214.37
+  },
+  {
+    "section": "KEDAH",
+    "area": "SERDANG",
+    "haulage": 3149.85,
+    "toll": 240.0,
+    "faf": 620.84,
+    "dgc": 55.0,
+    "total": 4065.69
+  },
+  {
+    "section": "KEDAH",
+    "area": "SIK / ALOR SETAR",
+    "haulage": 4002.0,
+    "toll": 240.0,
+    "faf": 788.79,
+    "dgc": 55.0,
+    "total": 5085.79
+  },
+  {
+    "section": "KEDAH",
+    "area": "SUNGAI PETANI",
+    "haulage": 3765.1,
+    "toll": 212.4,
+    "faf": 742.1,
+    "dgc": 55.0,
+    "total": 4774.6
+  },
+  {
+    "section": "PERLIS",
+    "area": "CHANGLUN",
+    "haulage": 3936.45,
+    "toll": 252.6,
+    "faf": 775.87,
+    "dgc": 55.0,
+    "total": 5019.92
+  },
+  {
+    "section": "PERLIS",
+    "area": "KANGAR / KUALA PERLIS / PADANG BESAR",
+    "haulage": 4011.2,
+    "toll": 240.0,
+    "faf": 790.61,
+    "dgc": 55.0,
+    "total": 5096.81
+  },
+  {
+    "section": "PERLIS",
+    "area": "KODIANG",
+    "haulage": 3936.45,
+    "toll": 252.6,
+    "faf": 775.87,
+    "dgc": 55.0,
+    "total": 5019.92
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "BAHAU, SERTING, BATU KIKIR",
+    "haulage": 2014.8,
+    "toll": 70.6,
+    "faf": 397.12,
+    "dgc": 55.0,
+    "total": 2537.52
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "GEMAS",
+    "haulage": 2205.7,
+    "toll": 92.0,
+    "faf": 434.74,
+    "dgc": 55.0,
+    "total": 2787.44
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "GEMENCHIH",
+    "haulage": 2040.1,
+    "toll": 92.0,
+    "faf": 402.1,
+    "dgc": 55.0,
+    "total": 2589.2
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "JELEBU",
+    "haulage": 1882.55,
+    "toll": 70.6,
+    "faf": 371.05,
+    "dgc": 55.0,
+    "total": 2379.2
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "JOHOL",
+    "haulage": 2042.4,
+    "toll": 92.0,
+    "faf": 402.56,
+    "dgc": 55.0,
+    "total": 2591.96
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "KUALA PILAH",
+    "haulage": 1882.55,
+    "toll": 92.0,
+    "faf": 371.05,
+    "dgc": 55.0,
+    "total": 2400.6
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "LENGGENG",
+    "haulage": 1336.3,
+    "toll": 56.4,
+    "faf": 263.38,
+    "dgc": 55.0,
+    "total": 1711.08
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "MANTIN",
+    "haulage": 1493.85,
+    "toll": 56.4,
+    "faf": 394.44,
+    "dgc": 55.0,
+    "total": 1999.69
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "NILAI",
+    "haulage": 1336.3,
+    "toll": 56.4,
+    "faf": 263.38,
+    "dgc": 55.0,
+    "total": 1711.08
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "PASIR PANJANG",
+    "haulage": 2075.75,
+    "toll": 92.0,
+    "faf": 409.13,
+    "dgc": 55.0,
+    "total": 2631.88
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "PORT DICKSON",
+    "haulage": 1923.95,
+    "toll": 91.8,
+    "faf": 379.21,
+    "dgc": 55.0,
+    "total": 2449.96
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "RANTAU",
+    "haulage": 1841.15,
+    "toll": 70.6,
+    "faf": 362.89,
+    "dgc": 55.0,
+    "total": 2329.64
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "REMBAU / CHEMBONG",
+    "haulage": 1766.4,
+    "toll": 79.6,
+    "faf": 348.16,
+    "dgc": 55.0,
+    "total": 2249.16
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "SENAWANG",
+    "haulage": 1683.6,
+    "toll": 70.6,
+    "faf": 331.84,
+    "dgc": 55.0,
+    "total": 2141.04
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "SEREMBAN",
+    "haulage": 1683.6,
+    "toll": 66.4,
+    "faf": 331.84,
+    "dgc": 55.0,
+    "total": 2136.84
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "SEREMBAN INDUSTRIAL AREA",
+    "haulage": 1683.6,
+    "toll": 66.4,
+    "faf": 331.84,
+    "dgc": 55.0,
+    "total": 2136.84
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "SILIAU",
+    "haulage": 1803.2,
+    "toll": 79.6,
+    "faf": 355.41,
+    "dgc": 55.0,
+    "total": 2293.21
+  },
+  {
+    "section": "NEGERI SEMBILAN",
+    "area": "TAMPIN",
+    "haulage": 1941.2,
+    "toll": 92.0,
+    "faf": 382.61,
+    "dgc": 55.0,
+    "total": 2470.81
+  },
+  {
+    "section": "MELAKA",
+    "area": "AIR KEROH INDUSTRIAL AREA",
+    "haulage": 2206.3,
+    "toll": 103.4,
+    "faf": 434.86,
+    "dgc": 55.0,
+    "total": 2799.56
+  },
+  {
+    "section": "MELAKA",
+    "area": "AIR MOLEK",
+    "haulage": 2106.8,
+    "toll": 92.0,
+    "faf": 415.25,
+    "dgc": 55.0,
+    "total": 2669.05
+  },
+  {
+    "section": "MELAKA",
+    "area": "ALOR GAJAH",
+    "haulage": 1971.1,
+    "toll": 92.0,
+    "faf": 388.5,
+    "dgc": 55.0,
+    "total": 2506.6
+  },
+  {
+    "section": "MELAKA",
+    "area": "BATU BERENDAM / BACHANG",
+    "haulage": 2081.5,
+    "toll": 103.4,
+    "faf": 410.26,
+    "dgc": 55.0,
+    "total": 2650.16
+  },
+  {
+    "section": "MELAKA",
+    "area": "BUKIT RAMBAI",
+    "haulage": 1998.7,
+    "toll": 92.0,
+    "faf": 393.94,
+    "dgc": 55.0,
+    "total": 2539.64
+  },
+  {
+    "section": "MELAKA",
+    "area": "CHENG INDUSTRIAL",
+    "haulage": 2081.5,
+    "toll": 92.0,
+    "faf": 410.26,
+    "dgc": 55.0,
+    "total": 2638.76
+  },
+  {
+    "section": "MELAKA",
+    "area": "DURIAN TUNGGAL",
+    "haulage": 2032.05,
+    "toll": 103.4,
+    "faf": 400.52,
+    "dgc": 55.0,
+    "total": 2590.97
+  },
+  {
+    "section": "MELAKA",
+    "area": "JASIN",
+    "haulage": 2136.7,
+    "toll": 112.4,
+    "faf": 421.14,
+    "dgc": 55.0,
+    "total": 2725.24
+  },
+  {
+    "section": "MELAKA",
+    "area": "KEM TERENDAK",
+    "haulage": 1971.1,
+    "toll": 92.0,
+    "faf": 388.5,
+    "dgc": 55.0,
+    "total": 2506.6
+  },
+  {
+    "section": "MELAKA",
+    "area": "KERUBONG",
+    "haulage": 2081.5,
+    "toll": 92.0,
+    "faf": 410.26,
+    "dgc": 55.0,
+    "total": 2638.76
+  },
+  {
+    "section": "MELAKA",
+    "area": "KLEBANG BESAR",
+    "haulage": 2081.5,
+    "toll": 103.4,
+    "faf": 410.26,
+    "dgc": 55.0,
+    "total": 2650.16
+  },
+  {
+    "section": "MELAKA",
+    "area": "KOTA MELAKA / MALIM JAYA",
+    "haulage": 2081.5,
+    "toll": 103.4,
+    "faf": 410.26,
+    "dgc": 55.0,
+    "total": 2650.16
+  },
+  {
+    "section": "MELAKA",
+    "area": "KUALA SUNGEI BARU",
+    "haulage": 2081.5,
+    "toll": 92.0,
+    "faf": 410.26,
+    "dgc": 55.0,
+    "total": 2638.76
+  },
+  {
+    "section": "MELAKA",
+    "area": "MASJID TANAH",
+    "haulage": 2026.3,
+    "toll": 92.0,
+    "faf": 399.38,
+    "dgc": 55.0,
+    "total": 2572.68
+  },
+  {
+    "section": "MELAKA",
+    "area": "MERLIMAU",
+    "haulage": 2136.7,
+    "toll": 103.4,
+    "faf": 421.14,
+    "dgc": 55.0,
+    "total": 2716.24
+  },
+  {
+    "section": "MELAKA",
+    "area": "PAYA RUMPUT",
+    "haulage": 2032.05,
+    "toll": 92.0,
+    "faf": 400.52,
+    "dgc": 55.0,
+    "total": 2579.57
+  },
+  {
+    "section": "MELAKA",
+    "area": "TANJUNG KELING / TANGGA BATU / SUNGAI",
+    "haulage": 1998.7,
+    "toll": 92.0,
+    "faf": 393.94,
+    "dgc": 55.0,
+    "total": 2539.64
+  },
+  {
+    "section": "MELAKA",
+    "area": "TEBONG ESTATE",
+    "haulage": 2042.4,
+    "toll": 103.4,
+    "faf": 402.56,
+    "dgc": 55.0,
+    "total": 2603.36
+  },
+  {
+    "section": "KELANTAN",
+    "area": "BACHOK",
+    "haulage": 4590.8,
+    "toll": 358.6,
+    "faf": 904.85,
+    "dgc": 55.0,
+    "total": 5909.25
+  },
+  {
+    "section": "KELANTAN",
+    "area": "GUA MUSANG",
+    "haulage": 5194.55,
+    "toll": 358.6,
+    "faf": 1023.85,
+    "dgc": 55.0,
+    "total": 6632.0
+  },
+  {
+    "section": "KELANTAN",
+    "area": "JELI",
+    "haulage": 4880.6,
+    "toll": 358.6,
+    "faf": 961.97,
+    "dgc": 55.0,
+    "total": 6256.17
+  },
+  {
+    "section": "KELANTAN",
+    "area": "KOTA BHARU",
+    "haulage": 4557.45,
+    "toll": 358.6,
+    "faf": 898.27,
+    "dgc": 55.0,
+    "total": 5869.32
+  },
+  {
+    "section": "KELANTAN",
+    "area": "KUALA KRAI",
+    "haulage": 4623.0,
+    "toll": 358.6,
+    "faf": 911.19,
+    "dgc": 55.0,
+    "total": 5947.79
+  },
+  {
+    "section": "KELANTAN",
+    "area": "MACANG",
+    "haulage": 4474.65,
+    "toll": 358.6,
+    "faf": 881.95,
+    "dgc": 55.0,
+    "total": 5770.2
+  },
+  {
+    "section": "KELANTAN",
+    "area": "PASIR MAS",
+    "haulage": 4664.4,
+    "toll": 358.6,
+    "faf": 919.35,
+    "dgc": 55.0,
+    "total": 5997.35
+  },
+  {
+    "section": "KELANTAN",
+    "area": "PASIR PUTIH",
+    "haulage": 4350.45,
+    "toll": 358.6,
+    "faf": 857.47,
+    "dgc": 55.0,
+    "total": 5621.52
+  },
+  {
+    "section": "KELANTAN",
+    "area": "PENGKALAN CHEPA",
+    "haulage": 4623.0,
+    "toll": 358.6,
+    "faf": 911.19,
+    "dgc": 55.0,
+    "total": 5947.79
+  },
+  {
+    "section": "KELANTAN",
+    "area": "PERINGAT",
+    "haulage": 4482.7,
+    "toll": 358.6,
+    "faf": 883.54,
+    "dgc": 55.0,
+    "total": 5779.84
+  },
+  {
+    "section": "KELANTAN",
+    "area": "RANTAU PANJANG",
+    "haulage": 4770.2,
+    "toll": 358.6,
+    "faf": 940.21,
+    "dgc": 55.0,
+    "total": 6124.01
+  },
+  {
+    "section": "KELANTAN",
+    "area": "TANAH MERAH",
+    "haulage": 4778.25,
+    "toll": 358.6,
+    "faf": 941.79,
+    "dgc": 55.0,
+    "total": 6133.64
+  },
+  {
+    "section": "KELANTAN",
+    "area": "TUMPAT",
+    "haulage": 4632.2,
+    "toll": 358.6,
+    "faf": 913.01,
+    "dgc": 55.0,
+    "total": 5958.81
+  },
+  {
+    "section": "PAHANG",
+    "area": "BENTONG/ JANDA BAIK",
+    "haulage": 1725.0,
+    "toll": 99.0,
+    "faf": 340.0,
+    "dgc": 55.0,
+    "total": 2219.0
+  },
+  {
+    "section": "PAHANG",
+    "area": "BUKIT KIJAL",
+    "haulage": 3059.0,
+    "toll": 216.8,
+    "faf": 602.93,
+    "dgc": 55.0,
+    "total": 3933.73
+  },
+  {
+    "section": "PAHANG",
+    "area": "CHERATING",
+    "haulage": 2915.25,
+    "toll": 216.8,
+    "faf": 574.6,
+    "dgc": 55.0,
+    "total": 3761.65
+  },
+  {
+    "section": "PAHANG",
+    "area": "GAMBANG",
+    "haulage": 2536.9,
+    "toll": 200.2,
+    "faf": 500.02,
+    "dgc": 55.0,
+    "total": 3292.12
+  },
+  {
+    "section": "PAHANG",
+    "area": "GEBENG",
+    "haulage": 2785.3,
+    "toll": 216.8,
+    "faf": 548.98,
+    "dgc": 55.0,
+    "total": 3606.08
+  },
+  {
+    "section": "PAHANG",
+    "area": "GENTING HIGHLANDS",
+    "haulage": 3114.2,
+    "toll": 99.0,
+    "faf": 613.81,
+    "dgc": 55.0,
+    "total": 3882.01
+  },
+  {
+    "section": "PAHANG",
+    "area": "JENGKA PUSAT",
+    "haulage": 2454.1,
+    "toll": 145.2,
+    "faf": 483.7,
+    "dgc": 55.0,
+    "total": 3138.0
+  },
+  {
+    "section": "PAHANG",
+    "area": "JERANTUT",
+    "haulage": 2337.95,
+    "toll": 99.0,
+    "faf": 460.81,
+    "dgc": 55.0,
+    "total": 2952.76
+  },
+  {
+    "section": "PAHANG",
+    "area": "KARAK",
+    "haulage": 1833.1,
+    "toll": 99.0,
+    "faf": 361.3,
+    "dgc": 55.0,
+    "total": 2348.4
+  },
+  {
+    "section": "PAHANG",
+    "area": "KUALA LIPIS",
+    "haulage": 2221.8,
+    "toll": 99.0,
+    "faf": 437.92,
+    "dgc": 55.0,
+    "total": 2813.72
+  },
+  {
+    "section": "PAHANG",
+    "area": "KUALA ROMPIN / ENDAU ROMPIN",
+    "haulage": 2470.2,
+    "toll": 216.8,
+    "faf": 486.88,
+    "dgc": 55.0,
+    "total": 3228.88
+  },
+  {
+    "section": "PAHANG",
+    "area": "KUANTAN",
+    "haulage": 2677.2,
+    "toll": 216.8,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3476.68
+  },
+  {
+    "section": "PAHANG",
+    "area": "LANCHANG",
+    "haulage": 1949.25,
+    "toll": 115.6,
+    "faf": 384.2,
+    "dgc": 55.0,
+    "total": 2504.05
+  },
+  {
+    "section": "PAHANG",
+    "area": "MARAN",
+    "haulage": 2329.9,
+    "toll": 172.6,
+    "faf": 459.22,
+    "dgc": 55.0,
+    "total": 3016.72
+  },
+  {
+    "section": "PAHANG",
+    "area": "MENTAKAB",
+    "haulage": 2032.05,
+    "toll": 135.0,
+    "faf": 400.52,
+    "dgc": 55.0,
+    "total": 2622.57
+  },
+  {
+    "section": "PAHANG",
+    "area": "NENASI",
+    "haulage": 3000.35,
+    "toll": 216.8,
+    "faf": 591.37,
+    "dgc": 55.0,
+    "total": 3863.52
+  },
+  {
+    "section": "PAHANG",
+    "area": "PEKAN / BANDAR MUADZHAM SHAH / BUKIT",
+    "haulage": 2810.6,
+    "toll": 216.8,
+    "faf": 553.97,
+    "dgc": 55.0,
+    "total": 3636.37
+  },
+  {
+    "section": "PAHANG",
+    "area": "RAUB",
+    "haulage": 1941.2,
+    "toll": 99.0,
+    "faf": 382.61,
+    "dgc": 55.0,
+    "total": 2477.81
+  },
+  {
+    "section": "PAHANG",
+    "area": "SEMAMBU INDUSTRIAL ESTATE",
+    "haulage": 2677.2,
+    "toll": 216.8,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3476.68
+  },
+  {
+    "section": "PAHANG",
+    "area": "SUNGAI LEMBING, PERGAU",
+    "haulage": 2909.5,
+    "toll": 216.8,
+    "faf": 573.46,
+    "dgc": 55.0,
+    "total": 3754.76
+  },
+  {
+    "section": "PAHANG",
+    "area": "TASIK CHINI",
+    "haulage": 2677.2,
+    "toll": 216.8,
+    "faf": 527.68,
+    "dgc": 55.0,
+    "total": 3476.68
+  },
+  {
+    "section": "PAHANG",
+    "area": "TEMERLOH",
+    "haulage": 2089.55,
+    "toll": 135.0,
+    "faf": 411.85,
+    "dgc": 55.0,
+    "total": 2691.4
+  },
+  {
+    "section": "PAHANG",
+    "area": "TERIANG",
+    "haulage": 2263.2,
+    "toll": 135.0,
+    "faf": 446.08,
+    "dgc": 55.0,
+    "total": 2899.28
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "BESUT",
+    "haulage": 4309.05,
+    "toll": 357.4,
+    "faf": 849.31,
+    "dgc": 55.0,
+    "total": 5570.76
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "BUKIT PAYUNG",
+    "haulage": 3806.5,
+    "toll": 357.4,
+    "faf": 750.26,
+    "dgc": 55.0,
+    "total": 4969.16
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "CUKAI",
+    "haulage": 2984.25,
+    "toll": 252.0,
+    "faf": 588.2,
+    "dgc": 55.0,
+    "total": 3879.45
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "JERTEH",
+    "haulage": 4267.65,
+    "toll": 357.4,
+    "faf": 841.15,
+    "dgc": 55.0,
+    "total": 5521.2
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "KAMASIK",
+    "haulage": 3132.6,
+    "toll": 265.6,
+    "faf": 617.44,
+    "dgc": 55.0,
+    "total": 4070.64
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "KAMPONG AGIL",
+    "haulage": 3704.15,
+    "toll": 337.4,
+    "faf": 730.09,
+    "dgc": 55.0,
+    "total": 4826.64
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "KEMAMAN",
+    "haulage": 3036.0,
+    "toll": 252.0,
+    "faf": 598.4,
+    "dgc": 55.0,
+    "total": 3941.4
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "KERTEH",
+    "haulage": 3199.3,
+    "toll": 275.8,
+    "faf": 630.58,
+    "dgc": 55.0,
+    "total": 4160.68
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "KUALA BRANG",
+    "haulage": 3903.1,
+    "toll": 337.4,
+    "faf": 769.3,
+    "dgc": 55.0,
+    "total": 5064.8
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "KUALA DUNGUN",
+    "haulage": 3381.0,
+    "toll": 297.4,
+    "faf": 666.4,
+    "dgc": 55.0,
+    "total": 4399.8
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "KUALA TERENGGANU",
+    "haulage": 3737.5,
+    "toll": 357.4,
+    "faf": 736.66,
+    "dgc": 55.0,
+    "total": 4886.56
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "MARANG,RUSILA",
+    "haulage": 3670.8,
+    "toll": 337.4,
+    "faf": 723.51,
+    "dgc": 55.0,
+    "total": 4786.71
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "PAKA",
+    "haulage": 3274.05,
+    "toll": 284.2,
+    "faf": 645.32,
+    "dgc": 55.0,
+    "total": 4258.57
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "TANJUNG BERHALA",
+    "haulage": 3036.0,
+    "toll": 252.0,
+    "faf": 598.4,
+    "dgc": 55.0,
+    "total": 3941.4
+  },
+  {
+    "section": "TERENGGANU",
+    "area": "TELOK KALUNG",
+    "haulage": 3036.0,
+    "toll": 252.0,
+    "faf": 598.4,
+    "dgc": 55.0,
+    "total": 3941.4
+  },
+  {
+    "section": "JOHOR",
+    "area": "AIR HITAM",
+    "haulage": 2702.5,
+    "toll": 167.0,
+    "faf": 532.66,
+    "dgc": 55.0,
+    "total": 3457.16
+  },
+  {
+    "section": "JOHOR",
+    "area": "BATU PAHAT",
+    "haulage": 2570.25,
+    "toll": 167.0,
+    "faf": 406.6,
+    "dgc": 55.0,
+    "total": 3198.85
+  },
+  {
+    "section": "JOHOR",
+    "area": "BENUT / SIMPANG RENGGAM",
+    "haulage": 2909.5,
+    "toll": 178.6,
+    "faf": 573.46,
+    "dgc": 55.0,
+    "total": 3716.56
+  },
+  {
+    "section": "JOHOR",
+    "area": "JOHOR BAHRU / NUSANJAYA / TANJUNG",
+    "haulage": 3240.7,
+    "toll": 211.0,
+    "faf": 638.74,
+    "dgc": 55.0,
+    "total": 4145.44
+  },
+  {
+    "section": "JOHOR",
+    "area": "KERATONG",
+    "haulage": 2487.45,
+    "toll": 92.0,
+    "faf": 490.28,
+    "dgc": 55.0,
+    "total": 3124.73
+  },
+  {
+    "section": "JOHOR",
+    "area": "KLUANG",
+    "haulage": 2801.4,
+    "toll": 167.0,
+    "faf": 552.16,
+    "dgc": 55.0,
+    "total": 3575.56
+  },
+  {
+    "section": "JOHOR",
+    "area": "KOTA TINGGI / TELUK RUMANIA",
+    "haulage": 3364.9,
+    "toll": 196.0,
+    "faf": 663.22,
+    "dgc": 55.0,
+    "total": 4279.12
+  },
+  {
+    "section": "JOHOR",
+    "area": "KUALA SEDELI",
+    "haulage": 2793.35,
+    "toll": 167.0,
+    "faf": 550.57,
+    "dgc": 55.0,
+    "total": 3565.92
+  },
+  {
+    "section": "JOHOR",
+    "area": "KULAI",
+    "haulage": 3033.7,
+    "toll": 196.0,
+    "faf": 597.94,
+    "dgc": 55.0,
+    "total": 3882.64
+  },
+  {
+    "section": "JOHOR",
+    "area": "LABIS",
+    "haulage": 2503.55,
+    "toll": 156.4,
+    "faf": 593.45,
+    "dgc": 55.0,
+    "total": 3308.4
+  },
+  {
+    "section": "JOHOR",
+    "area": "MERSING",
+    "haulage": 3348.8,
+    "toll": 202.8,
+    "faf": 660.05,
+    "dgc": 55.0,
+    "total": 4266.65
+  },
+  {
+    "section": "JOHOR",
+    "area": "MUAR",
+    "haulage": 2296.55,
+    "toll": 117.8,
+    "faf": 452.65,
+    "dgc": 55.0,
+    "total": 2922.0
+  },
+  {
+    "section": "JOHOR",
+    "area": "PAGOH",
+    "haulage": 2410.4,
+    "toll": 133.2,
+    "faf": 475.09,
+    "dgc": 55.0,
+    "total": 3073.69
+  },
+  {
+    "section": "JOHOR",
+    "area": "PALOH",
+    "haulage": 2868.1,
+    "toll": 156.4,
+    "faf": 565.3,
+    "dgc": 55.0,
+    "total": 3644.8
+  },
+  {
+    "section": "JOHOR",
+    "area": "PASIR GUDANG",
+    "haulage": 3240.7,
+    "toll": 211.0,
+    "faf": 638.74,
+    "dgc": 55.0,
+    "total": 4145.44
+  },
+  {
+    "section": "JOHOR",
+    "area": "PENGERANG",
+    "haulage": 3680.0,
+    "toll": 196.0,
+    "faf": 725.33,
+    "dgc": 55.0,
+    "total": 4656.33
+  },
+  {
+    "section": "JOHOR",
+    "area": "PEKAN NENAS",
+    "haulage": 3240.7,
+    "toll": 211.0,
+    "faf": 638.74,
+    "dgc": 55.0,
+    "total": 4145.44
+  },
+  {
+    "section": "JOHOR",
+    "area": "PONTIAN KECIL",
+    "haulage": 3315.45,
+    "toll": 202.8,
+    "faf": 653.48,
+    "dgc": 55.0,
+    "total": 4226.73
+  },
+  {
+    "section": "JOHOR",
+    "area": "SEGAMAT",
+    "haulage": 2346.0,
+    "toll": 117.8,
+    "faf": 462.4,
+    "dgc": 55.0,
+    "total": 2981.2
+  },
+  {
+    "section": "JOHOR",
+    "area": "SENAI",
+    "haulage": 3091.2,
+    "toll": 206.0,
+    "faf": 609.28,
+    "dgc": 55.0,
+    "total": 3961.48
+  },
+  {
+    "section": "JOHOR",
+    "area": "SKUDAI",
+    "haulage": 3199.3,
+    "toll": 211.0,
+    "faf": 630.58,
+    "dgc": 55.0,
+    "total": 4095.88
+  },
+  {
+    "section": "JOHOR",
+    "area": "TAMPOI",
+    "haulage": 3199.3,
+    "toll": 211.0,
+    "faf": 630.58,
+    "dgc": 55.0,
+    "total": 4095.88
+  },
+  {
+    "section": "JOHOR",
+    "area": "TANGKAK",
+    "haulage": 2213.75,
+    "toll": 117.8,
+    "faf": 436.33,
+    "dgc": 55.0,
+    "total": 2822.88
+  },
+  {
+    "section": "JOHOR",
+    "area": "ULU TIRAM",
+    "haulage": 3266.0,
+    "toll": 167.0,
+    "faf": 643.73,
+    "dgc": 55.0,
+    "total": 4131.73
+  },
+  {
+    "section": "JOHOR",
+    "area": "YONG PENG",
+    "haulage": 2718.6,
+    "toll": 156.4,
+    "faf": 535.84,
+    "dgc": 55.0,
+    "total": 3465.84
+  }
+]
